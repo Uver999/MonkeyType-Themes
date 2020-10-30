@@ -11,7 +11,7 @@ To apply these (only one right now):
 
 - Click "Write style for: monkeytype.com" (not "monkeytype.com/this_URL").
 
-- Copy/paste the code from the css.txt file (in the theme folder of your choosing) in between the brackets after "@-moz-document domain("monkeytype.com")".
+- Copy/paste the code from the css.txt file (in the theme folder of your choosing) in between the brackets after '@-moz-document domain("monkeytype.com")'.
 
 - Name and save the theme and check that it is working on MonkeyType (you may need to reload MonkeyType if you do not have **live preview** enabled).
 
