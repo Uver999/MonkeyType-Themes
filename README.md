@@ -15,6 +15,6 @@ To apply these (only one right now):
 
 - Name and save the theme and check that it is working on MonkeyType (you may need to reload MonkeyType if you do not have **live preview** enabled).
 
-- Use the MonkeyType custom theme link in whatever theme folder you chose to theme the actual text or create your own if you prefer.
+- Use the MonkeyType custom theme link in whatever theme folder you chose to use the actual text or create one of your own if you prefer.
 
 That's it! Feel free to edit these however you please and enjoy!
