@@ -9,12 +9,12 @@ To apply these (only one right now):
 
 - Click the extension in your address bar.
 
-- Click "Write style for: monkeytype.com".
+- Click "Write style for: monkeytype.com" (not "monkeytype.com/this_URL").
 
-- Copy/paste the css from the .txt file in the theme folder. 
+- Copy/paste the code from the css.txt file (in the theme folder of your choosing) in between the brackets after "@-moz-document domain("monkeytype.com")".
 
 - Name and save the theme and check that it is working on MonkeyType (you may need to reload MonkeyType if you do not have **live preview** enabled).
 
-- Use the MonkeyType custom theme link in whatever theme folder you chose or create your own if you prefer to theme the actual text.
+- Use the MonkeyType custom theme link in whatever theme folder you chose to theme the actual text or create your own if you prefer.
 
-That's it! Feel free to edit them however you please and enjoy!
+That's it! Feel free to edit these however you please and enjoy!
