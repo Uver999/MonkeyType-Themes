@@ -6,4 +6,4 @@ If you would prefer to keep all the GUI elements, no worries! Simply comment out
 
 Depending on your monitor and window size, you may need to play around with the **background-size**, **background-position**, and **right** variables. You could also try changing the width in MonkeyType's preferences page.
 
-[Theme with keymap](Screenshots/Light-Yagami-with-Keymap.png)
+![Theme with keymap](Screenshots/Light-Yagami-with-Keymap.png)
