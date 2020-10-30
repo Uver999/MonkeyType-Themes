@@ -7,3 +7,14 @@ To apply these (only one right now):
 
 - Navigate to [MonkeyType](https://monkeytype.com)
 
+- Click the extension in your address bar
+
+- Click "Write style for: monkeytype.com"
+
+- Copy/paste the css from the .txt file in the theme folder. 
+
+- Name and save the theme and check that it is working on MonkeyType (you may need to reload MonkeyType if you do not have **live preview** enabled).
+
+- Use the MonkeyType custom theme link in whatever theme folder you chose or create your own if you prefer to theme the actual text.
+
+That's it! Feel free to edit them however you please and enjoy!
