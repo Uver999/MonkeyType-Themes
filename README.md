@@ -7,7 +7,7 @@ To apply these (only one right now):
 
 - Navigate to [MonkeyType](https://monkeytype.com).
 
-- Click the extension in your address bar.
+- Click the Stylus extension in your address bar.
 
 - Click "Write style for: monkeytype.com" (not "monkeytype.com/this_URL").
 
