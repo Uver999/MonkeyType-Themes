@@ -2,10 +2,12 @@
    body
    {
        background-image: url(https://i.imgur.com/UpTPv0F.jpeg);
-	   position: relative;
+       position: static;
+       background-color: #2B464F;
        background-attachment: fixed;
-       background-size: 100%;
-	   background-position: 50%;
+       background-size: contain;
+       background-repeat: no-repeat;
+       /* background-position: 50%; */
    }
 	
    /* Hide and move top, middle & bottom sections */
@@ -54,7 +56,16 @@
    {
    margin-top: 160px;
    }
-	
+   
+   /* Hide scrollbar */
+   ::-webkit-scrollbar 
+   {
+   width: 0px;
+   background: transparent;
+   /* make scrollbar transparent */
+   }
+   
+   /* Uncomment and play around with these if wanted */
    /* .logo 
    {
    visibility: hidden;
