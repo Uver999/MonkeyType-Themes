@@ -1,3 +1,7 @@
+Themes are located [here](https://nest.pijul.com/uver/mt-themes) now.
+
+___________________________________________________________________________________
+
 # MonkeyType-Themes
 My custom themes for MonkeyType
 
